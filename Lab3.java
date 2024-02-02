@@ -94,7 +94,7 @@ public class Lab3 {
     System.out.printf("[INFO] Student's weighted total is %.2f%%\n", total);
     if (total >= 50) {
          // Print "Student PASSED the class."
-    	 System.out.println("[INFO] Student PASSED the class!");
+    	 System.out.println("[INFO] Student PASSED the class????");
      } else {
          // Print "Student FAILED the class."
     	 System.out.println("[INFO] Student FAILED the class!!!!!");
