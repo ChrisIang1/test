@@ -97,7 +97,7 @@ public class Lab3 {
     	 System.out.println("[INFO] Student PASSED the class!");
      } else {
          // Print "Student FAILED the class."
-    	 System.out.println("[INFO] Student FAILED the class!");
+    	 System.out.println("[INFO] Student FAILED the class!!!!!");
      }
 
      scan.close();
